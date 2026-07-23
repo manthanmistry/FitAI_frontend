@@ -22,7 +22,7 @@ export default function Navbar() {
           <span className="w-8 h-8 rounded-lg bg-gradient-to-br from-brand-500 to-ocean-500 flex items-center justify-center text-white">
             <Dumbbell size={18} />
           </span>
-          FitAI
+          FitNova
         </Link>
 
         <nav className="hidden md:flex items-center gap-1">
